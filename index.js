@@ -17,7 +17,7 @@ var sendMessage = function(params){
       //returns a promise
       from : params.from, //your bandwidth number
       to   : params.to, //number to send to
-      text : "Hey Gay!!! How are you doing!!! It's me!!!! John Cumberbatch III from pasta class!!!",
+      text : "HELOLLOLOLOLOLOLOLOL",
      // media: "https://s3.amazonaws.com/bwdemos/logo.png"
     })
     //calls back the message id number and catches any errors
